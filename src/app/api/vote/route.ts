@@ -15,7 +15,7 @@ export const OPTIONS = GET;
 export async function GET(request: Request) {
   const actionMetadata: ActionGetResponse = {
     icon: "https://cdn.britannica.com/22/187222-050-07B17FB6/apples-on-a-tree-branch.jpg",
-    title: "Who is likely to make a GOOD WIFE between two ladies.",
+    title: "Who is likely to make a GOOD WIFE between these two ladies.",
     description: "vote between Ifihan and Sarima.",
     label: "Vote",
     links: {
